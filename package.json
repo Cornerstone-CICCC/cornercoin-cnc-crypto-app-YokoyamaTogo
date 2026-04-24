@@ -1,0 +1,24 @@
+{
+  "name": "crypto-app",
+  "version": "1.0.0",
+  "description": "This assignment will allow you to practice with the newly discovered class-based OOP chops you've recently discovered.",
+  "homepage": "https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-YokoyamaTogo#readme",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-YokoyamaTogo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/cornercoin-cnc-crypto-app-YokoyamaTogo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
